@@ -5,4 +5,4 @@ Run with adb using the command line (https://developer.android.com/studio/comman
 On Linux:
 `/bin/bash /home/*current username*/adb-settings`
 
-The script removes mainly bloat: decide yourself if you want to also remove Google apps and more!
+The script removes mainly bloat: modify "adb-settings" yourself if you want to also remove Google apps and more!
